@@ -1,0 +1,1 @@
+# Semantic-Segmentation-of-DeepGlobe-Land-Cove-Classification-Dataset
